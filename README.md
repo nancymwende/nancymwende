@@ -16,11 +16,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=nancymwende&style=flat-square&color=blue" alt=""/>
 
-<h1>
+<h1 align="center" >
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="5px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="5px" height="20px"/>
 </h1>
 
-<div align="center" align="center" >
+<div align="center" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
